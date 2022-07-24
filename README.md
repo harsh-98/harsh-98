@@ -4,12 +4,12 @@
 Hi there 👋
 </h2>
 
-You can check my past works here: <a href="https://harshjain.co/projects/">MY PROJECTs</a>
+You can check my past works here: <a href="https://harshjain.co/projects/">MY PROJECTS</a>
 
 <h3 >You can contact me via </h3>
 
-<a href="https://discordapp.com/users/harshjain#0499"><img align="left" src="https://raw.githubusercontent.com/harsh-98/harsh-98/main/images/discord.svg" alt="harshjain | Discord" width="24px"/></a>
-<a href="mailto:harshjiniitr@gmail.com"><img align="left" src="https://raw.githubusercontent.com/harsh-98/harsh-98/main/images/email.svg" alt="harshjain | Email" width="24px"/></a>
+<a href="https://discordapp.com/users/harshjain#0499"><img align="left" src="images/discord.svg" alt="harshjain | Discord" width="24px"/></a>
+<a href="mailto:harshjiniitr@gmail.com"><img align="left" src="images/email.svg" alt="harshjain | Email" width="24px"/></a>
 
 <br/>
 
@@ -25,6 +25,6 @@ As a creative & passionate developer, and fast learner with new skills and cutti
 ![](https://cdn1.vc4a.com/media/2021/08/github-banner.jpg)
 
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-98&exclude_repo=harsh-98.github.io&layout=compact&langs_count=8&theme=radical">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-98&count_private=true&hide=html&layout=compact&langs_count=6&theme=radical">
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=harsh-98&sshow_icons=true&theme=radical&count_private=true">
 </p>
