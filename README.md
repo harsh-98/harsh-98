@@ -25,6 +25,6 @@ As a creative & passionate developer, and fast learner with new skills and cutti
 ![](https://cdn1.vc4a.com/media/2021/08/github-banner.jpg)
 
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-98&count_private=true&hide=html&layout=compact&langs_count=6&theme=radical">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-98&hide=html,python,css,javascript&layout=compact&langs_count=6&theme=radical">
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=harsh-98&sshow_icons=true&theme=radical&count_private=true">
 </p>
